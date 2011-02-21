@@ -1,0 +1,55 @@
+Project plan
+
+
+I. Overview
+II. Goals and Scope
+  2.1. Project Goals
+  2.2. Project Scope
+III. Organization
+  2.1. Boundaries and Stakeholders
+  2.2. Project Organization ( subprojects and member responsibilities )
+     a. Project Manager
+     b. Project-internal Functions ( other positions )
+     c. Project Team
+ 
+        Name          Availability         Comment
+     
+IV. Schedule
+  4.1. Work Breakdown Structure
+  4.2. Schedules and Milestones
+
+        Milestone     Description         Milestone Criteria          Planned Date
+
+  4.3  Development Process ( Dapat Iterative to )
+  4.4  Development Environment (Tools, Languages used)
+
+V. Risk Management ( Describe the procedure for managing risks in the project. )
+
+   Steps:
+     1. Risk identification
+     2. Risk analysis and Prioritization
+     3. Risk management planning
+     4. Risk resolution 
+     5. Risk monitoring
+     6. Lessons Learned
+
+   5.1 Acitivities (refer to steps above)
+
+   Acitivity                Participant            Schedule
+
+
+VI. Communication and Reporting
+
+   Type of Communication       Method/Tool       Frquency/ Schedule       Information      Participants/ Responsibilities
+
+
+
+VII. Delivery Plan
+
+   Deliverable           Planned Date              Receiver
+
+
+VIII. References ( Document name of added reference in repository )
+
+
+
