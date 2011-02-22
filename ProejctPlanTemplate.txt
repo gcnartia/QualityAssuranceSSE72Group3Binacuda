@@ -2,9 +2,14 @@ Project plan
 
 
 I. Overview
+	BINACUDA is mainly designed for Asia Pacific College students for one-to-one communication via chat.
 II. Goals and Scope
   2.1. Project Goals
+	To provide another way for students to collaborate and converse with each other.
+
   2.2. Project Scope
+	BINACUDA is an Internet Relay Chat client for Asia Pacific College students that can be used to collaborate and 	converse with each other on BINACUDA networks within the APC.
+
 III. Organization
   2.1. Boundaries and Stakeholders
   2.2. Project Organization ( subprojects and member responsibilities )
