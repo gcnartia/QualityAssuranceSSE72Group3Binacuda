@@ -35,7 +35,21 @@ V. Risk Management ( Describe the procedure for managing risks in the project. )
 
    5.1 Acitivities (refer to steps above)
 
-   Acitivity                Participant            Schedule
+   Acitivity                       Participant                   Schedule                                      Task
+   
+   Risk Identification            All members                 Every beginning of iteration         Brainstorming, Risk assesment workshops
+   
+   Risk analysis and              Project manager             Every beginning of iteration         Risk assignments
+     Prioritization               Business Analyst
+     
+   Risk management                Business Analyst            Every beginning of iteration         Assignment of actions for each risk
+     planning
+     
+   Risk Resolution                Project Manager             At every end of iteration            Check if risks are resolved and mitigated
+    
+   Risk Monitoring                Project Manager             Weekly                               Impact and status of each risk is identified
+    
+   Lessons learned                  All members               Every end of Risk Monitoring         Discussion of learnings at risk management.
 
 
 VI. Communication and Reporting
