@@ -49,7 +49,7 @@ V. Risk Management ( Describe the procedure for managing risks in the project. )
     
    Risk Monitoring                Project Manager             Weekly                               Impact and status of each risk is identified
     
-   Lessons learned                  All members               Every end of Risk Monitoring         Discussion of learnings at risk management.
+   Lessons learned                  All members.               Every end of Risk Monitoring         Discussion of learnings at risk management.
 
 
 VI. Communication and Reporting
